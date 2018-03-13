@@ -1,0 +1,1 @@
+Olá professor, fiz o meu código em C++ porque tenho mais afinidade com a linguagem, mas sei que em Python seria bem mais facil. kkk. Enfim, não consegui terminar até segunda, dia 12 pq tive um problema com as strings em c++, mas consegui resolver hoje, com a ajuda do Jordão, um aluno da minha turma, foi meio ganb mais deu certo.   
