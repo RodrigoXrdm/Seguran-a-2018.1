@@ -1,0 +1,2 @@
+Professor esse tutorial não esta funcionando, só conseguir terminar essa atividade devido a ajuda do Léo, o problema no turorial, é que estar faltando algumas passos, na verdade varios passos,
+logo ninguem consegue executar a aplicação, para solucionar o léo me indicou a mover todo os arquivos disponibilizados pra dentro da pasta "/opt/lampp/htdocs/pagina que criei" ai sim o Xamps consegue finalmente executar a aplicação. 	

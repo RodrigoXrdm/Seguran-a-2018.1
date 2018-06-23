@@ -1,0 +1,4 @@
+Nesta pratica tentei infectar a minha maquina fisica, tendo como atacante minha maquina virtual Kali, nessa atividade foi a primeira vez que ativei o Kali
+então levei um tempo extra pra conseguir executar, nela consegui instalar o metasploit, ver informações como exploits e playloaders e ver os comandos que o venon
+me permiti executar apartir do metasploite. Mas infelizmente não consegui atacar por algum motivo, eu executo o trojan na maquina fisica, mas não recebo o report no terminal do metasploit
+acredito ser por alguma configuração dos hoteadores da Brisanet, testei com a maquina em modo Nat e em modo blinde. 
