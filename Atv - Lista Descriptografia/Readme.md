@@ -1,6 +1,6 @@
 # Cifras
 
-Fiz este trabalho com o Leo Jaimesson e o Rodrigo Almeida.
+Fiz este trabalho com o Leo Jaimesson e o Gleydson Rodruigues.
 
 ## 1.) O que são chaves simétricas e assimétricas?
 - A criptografia simétrica usa a mesma chave tanto para criptografar como para descriptografar dados. Os algoritmos que são usados para a criptografia simétrica são mais simples do que os algoritmos usados na criptografia assimétrica. Em função desses algoritmos mais simples, e porque a mesma chave é usada tanto para criptografar como para descriptografar dados, a criptografia simétrica é muito mais rápida que a criptografia assimétrica. Portanto, a criptografia simétrica é adequada à criptografia e à descriptografia de uma grande quantidade de dados.
